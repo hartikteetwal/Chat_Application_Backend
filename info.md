@@ -1,0 +1,1 @@
+npm i mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io express
